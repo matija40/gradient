@@ -1,0 +1,15 @@
+.stranica{
+    
+   
+    background:linear-gradient(90deg, rgba(2,0,36,0.5) 0%, rgba(134,166,40,0.5) 28%, rgba(115, 124, 85, 0.5) 53%, rgba(214,222,179,0.5) 64%, rgba(214,222,179,0.5) 74%, rgba(214,222,179,0.5) 80%, rgba(214,222,179,0.5) 91%, rgba(214,222,179,0.5) 97%),url(./pozadina.jpg);
+    background-size: 100%;
+    background-repeat:repeat;
+    
+}
+
+.naslov{
+    background-color: greenyellow;
+}
+.sadrzaj{
+    background-color:olive;
+}
